@@ -6,3 +6,4 @@
 /async_scraper/target
 /json_macro/target
 /custom_iterator_adaptor/target
+/tests/target
